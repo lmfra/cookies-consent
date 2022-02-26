@@ -1,6 +1,6 @@
 # cookies-consent
 This cookie banner is written by me and used on my link summary page.
-![](https://i.ibb.co/wKtfZ1s/C0-CECBCB-D320-40-E4-9-EAC-B1073-AD9-EFAC.jpg)
+![](https://camo.githubusercontent.com/07d876d7dfb5875edac422b52cddb112ad02d889598f2b84a6b3997c0492bbb6/68747470733a2f2f692e6962622e636f2f774b74665a31732f43302d4345434243422d443332302d34302d45342d392d4541432d42313037332d4144392d454641432e6a7067)
 
 ---
 To use the cookie banner, include the files in your website structure. You can make adjustments to the files through your file manager.
