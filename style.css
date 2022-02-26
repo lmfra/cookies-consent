@@ -1,0 +1,18 @@
+.hidden {
+    display: none;
+}
+
+#cookie-banner {
+font-family: 'Lexend Deca', sans-serif;
+    padding: 0rem;
+    width: 100%;
+    text-align: center;
+justify-content: center;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    background-color: #6393C1;
+      border-radius: 16px;
+font-size: 14px;
+
+}
