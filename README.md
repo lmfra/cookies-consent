@@ -1,5 +1,6 @@
 # cookies-consent
 This cookie banner is written by me and used on my link summary page.
+![](https://i.ibb.co/7KYWgjx/consent.png)
 
 ---
 To use the cookie banner, include the files in your website structure. You can make adjustments to the files through your file manager.
